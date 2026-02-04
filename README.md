@@ -5,7 +5,9 @@
 ---
 
 **Master 2 IASD - Université Paris-Dauphine**
+
 **Cours : Qualité des Données**
+
 **Date : Février 2026**
 
 ---
@@ -891,7 +893,7 @@ Score Sémantique
 
 ## B. Structure du projet
 
-```
+```text
 Projet_Data_Quality/
 │
 ├── Datasets/
@@ -963,5 +965,7 @@ echo "CLAUDE_API_KEY=sk-ant-..." > .env
 ---
 
 *Rapport généré dans le cadre du projet de Qualité des Données*
+
 *Master 2 IASD - Université Paris-Dauphine*
+
 *Février 2026*
